@@ -1,0 +1,9 @@
+package.json
+package-lock.json
+.idea
+run.sh
+run_s3_enabled.sh
+node_modules/
+.docs/
+settings.json
+.DS_Store
