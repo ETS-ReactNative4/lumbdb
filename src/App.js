@@ -40,7 +40,7 @@ class Welcome extends Component {
       const { text, toggle } = this.props;
       console.log(toggle);
       return (
-        <h1 className="shit">{ text }</h1>
+        <h1 className="sample">{ text }</h1>
       );
     }
 }
