@@ -10,3 +10,4 @@ run_s3_enabled.sh
 settings.json
 .DS_Store
 .vscode
+yarn-error.log
