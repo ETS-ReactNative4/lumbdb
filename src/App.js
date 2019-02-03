@@ -9,7 +9,7 @@ import MoviesList from './MoviesList';
 import MovieDetail from './MovieDetail';
 
 const App = () => (
-  <Router>
+  <Router basename='/lumbdb'>
     <div className='App'>
       <header className='App-header'>
         <Link to='/'>
